@@ -1,0 +1,17 @@
+# Substack export: never commit files about readers (email list, opens, delivers, subscribers)
+*email_list*
+*subscriber*
+*.opens.csv
+*.delivers.csv
+*opens*.csv
+*delivers*.csv
+export/
+exports/
+substack-export*/
+*.zip
+
+# Build outputs and junk
+__pycache__/
+*.pyc
+.DS_Store
+.claude/settings.local.json
