@@ -89,6 +89,11 @@ def save_post(full, old_path=None):
         head = f"# {meta['title']}\n\n" + (f"*{meta['subtitle']}*\n\n" if meta["subtitle"] else "")
         body = head + body_md + (f"\n\n{PAYWALL_MARK}\n" if paywalled else "")
     target = path_for(full)
+    if old_path and old_path == target and old_path.exists():
+        same = {k: v for k, v in old_meta.items() if k != "synced"} == {k: str(v) for k, v in meta.items() if k != "synced"}
+        if same and read_post(old_path)[1].strip() == body.strip():
+            return target, old_meta  # nothing changed: leave the file alone
+
     if old_path and old_path != target and old_path.exists():
         old_path.unlink()
     write_post(target, meta, body)

@@ -9,6 +9,30 @@ via writing-data), this file holds every opening, newest first, so the judge see
 
 ---
 
+## The Gatekeepers Are Gone (2026-11-10)
+
+Subtitle: *I signed other people's checks for years. Now I am signing my own name to the page. Nobody gave me permission.*
+
+The gatekeepers are gone. I am writing my own books now.
+
+For years I signed other people's checks. Board meetings. Strategic planning retreats. A $100 million export division. A multinational tech startup. I never once signed my own name to a page of prose I had written.
+
+There was another working life, too. Thirty years in flooded crawl spaces and burnt attics.
+
+---
+
+## The Hiring Question (2026-11-09)
+
+Subtitle: *86% of solopreneurs now try AI before they hire a person. So what still deserves a human?*
+
+Business growth used to mean hiring.
+
+Your first hire was a rite of passage. Proof you made it.
+
+A new FreshBooks survey says 86% of solopreneurs now try AI before they hire a person.
+
+---
+
 ## The Physical Book Is Winning (2026-11-08)
 
 Subtitle: *A cracked 1989 Drucker paperback, a 75% jump in print sales, and why I am writing my next books for paper first.*
