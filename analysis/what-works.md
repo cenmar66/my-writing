@@ -6,7 +6,7 @@ Updated by writing-data. Last update: 2026-11-19.
 
 23 pieces published between 2026-10-21 and 2026-11-10 (you mentioned about 30: the public archive lists 23; older or deleted pieces, notes and LinkedIn posts are not in it).
 Every piece shows **0 likes, 0 comments, 0 restacks** on Substack's public API, except The Gatekeepers Are Gone (1 like, 2026-11-10). So nothing can be called "best" or "worst" yet.
-With 21 pieces over 19 days, even real numbers would be direction, not statistics.
+With 23 pieces over 3 weeks, even real numbers would be direction, not statistics.
 
 **To fill this file:** share your Substack stats (Dashboard > Posts: views, opens, new subscribers per post; or Settings > Exports with post stats) and say "here are my stats". writing-data will add the columns to data/posts.csv and rank.
 
